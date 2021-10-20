@@ -11,10 +11,8 @@ public class FavoriteCharacter {
 		Scanner inputScanner = new Scanner(System.in);
 		
 		System.out.println("hello my friend 1 ");
-
-
-
 		Scanner input = new Scanner(System.in);
+		System.out.println("Who is your favorite movie character?");
 
 	}
 
