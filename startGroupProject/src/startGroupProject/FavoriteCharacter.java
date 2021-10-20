@@ -9,7 +9,7 @@ public class FavoriteCharacter {
 		// hey
 		Scanner inputScanner = new Scanner(System.in);
 		
-		System.out.println("hello hey");
+		System.out.println("hello ");
 
 
 	}
