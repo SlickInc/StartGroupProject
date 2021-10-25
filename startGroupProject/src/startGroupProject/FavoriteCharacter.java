@@ -19,7 +19,7 @@ public class FavoriteCharacter {
 		System.out.println("hello");
 		
 		
-		System.out.println("Eyen was here");
+		System.out.println("Eyen wasn't here");
 	}
 
 }
